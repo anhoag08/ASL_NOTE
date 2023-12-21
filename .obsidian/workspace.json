@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "1083072984658726",
+    "type": "split",
+    "children": [
+      {
+        "id": "676f5ae89ee657c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fb996395a2d40c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HKI - năm 3/Information Theory/L3 Entropy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a02b39d30d18ab40",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9c8782ada3f7cde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e235b6afb210ef1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "980cd5bae8c7a573",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3727853f8ec6d767",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "dddc8b6cb11237af",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ff3a51c5086b6c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5832e4953ee75dd1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HKI - năm 3/Information Theory/L3 Entropy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "452585addf8b7fc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HKI - năm 3/Information Theory/L3 Entropy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "111cde8f2e403e98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cca32a75762bdb4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HKI - năm 3/Information Theory/L3 Entropy.md"
+              }
+            }
+          },
+          {
+            "id": "3650addd82ab480d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0fb996395a2d40c1",
+  "lastOpenFiles": [
+    "HKI - năm 3/Pasted image 20231219214626.png",
+    "HKI - năm 3/Pasted image 20231219214518.png",
+    "HKI - năm 3/Pasted image 20231219214428.png",
+    "HKI - năm 3/Pasted image 20231219214353.png",
+    "HKI - năm 3/Pasted image 20231219214346.png",
+    "HKI - năm 3/Pasted image 20231219214044.png",
+    "HKI - năm 3/Pasted image 20231219213153.png",
+    "Resources/Pasted image 20231108191215.png",
+    "Resources/Pasted image 20231108191343.png",
+    "Resources/Pasted image 20231026163001.png",
+    "Resources/Pasted image 20231019163348.png",
+    "HKI - năm 3/Information Theory/L3 Entropy.md",
+    "HKI - năm 3/Information Theory/L2 Probability and Statistics.md",
+    "HKI - năm 3/KTMT.md",
+    "Daily Note.md",
+    "HKI - năm 3/DisData/Lan truyền.md",
+    "Untitled.md",
+    "HKI - năm 3/KTPM/Priority Queue.md",
+    "HKI - năm 3/KTPM/Index Table Pattern.md",
+    "HKI - năm 3/KTPM/Gateway Offloading.md",
+    "HKI - năm 3/KTPM/Async Request-Reply.md",
+    "HKI - năm 3/KTPM/Federal Identity.md",
+    "HKI - năm 3/KTPM/Compensating Transaction Pattern.md",
+    "HKI - năm 3/KTPM/Bulkhead.md",
+    "HKI - năm 3/KTPM/Architecture.md",
+    "HKI - năm 3/KTPM/Ambassador Pattern.md",
+    "HKI - năm 3/Information Theory/L1 Introduction.md",
+    "HKI - năm 3/KTPM/Thiết kế kiến trúc.md",
+    "HKI - năm 3/DisData/Tại sao phải phân mảnh các quan hệ ( bảng ).md",
+    "HKI - năm 3/DisData/DisData.md",
+    "HKI - năm 3/ComVis/Lines.md",
+    "HKI - năm 3/TESTING/System Tesing.md",
+    "HKI - năm 3/TESTING/L3 Black Box.md",
+    "HKI - năm 3/TESTING/L1.md",
+    "HKI - năm 3/TESTING/Intergration Testing.md",
+    "HKI - năm 3/TESTING/Data WBT.md",
+    "HKI - năm 3/MobileDev",
+    "HKI - năm 3/Information Theory",
+    "Lab Testing",
+    "Resources",
+    "Resources/SzeliskiBook_20100903_draft.pdf",
+    "Untitled.canvas",
+    "HKI - năm 3/KTPM",
+    "HKI - năm 3/DisData",
+    "HKI - năm 3/ComVis",
+    "HKI - năm 3/TESTING",
+    "HKI - năm 3/TESTING"
+  ]
+}
