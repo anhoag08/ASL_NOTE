@@ -1,4 +1,8 @@
 #Design_Pattern 
+
+# Link Azure:
+*
+
 Định nghĩa:
 - Tách một tin nhắn lớn thành một tham chiếu, key và lưu trữ payload ở một dịch vụ ngoài. Sau đó gửi tham chiếu và key tới dịch vụ nhắn tin. Pattern này cho phép các tin nhắn khối lượng lớn có thể được xử lý, trong khi đảm bảo tính bảo mật cho tin nhắn và giữ cho dịch vụ xử lý không bị quá tải hoặc làm chậm. Pattern này giảm chi phí, do việc lưu trữ được thực hiện ở bên ngoài dịch vụ nhắn tin.
 

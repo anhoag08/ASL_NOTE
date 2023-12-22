@@ -1,5 +1,8 @@
 #Design_Pattern 
 
+# Link Azure:
+*
+
 **Định nghĩa**
 
 - Mô hình thiết kế Ambassador (Ambassador Design Pattern) là một mô hình thiết kế phần mềm được sử dụng để quản lý và kiểm soát giao tiếp giữa các thành phần của hệ thống. Mô hình này tập trung vào việc tạo ra một lớp trung gian (được gọi là "Ambassador") để xử lý và kiểm soát giao tiếp giữa các thành phần khác nhau của ứng dụng.
