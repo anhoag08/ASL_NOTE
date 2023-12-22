@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "676f5ae89ee657c9",
+        "id": "34c2d5db782d48ae",
         "type": "tabs",
         "children": [
           {
-            "id": "0fb996395a2d40c1",
+            "id": "8ebf9c1be8b34885",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HKI - năm 3/Information Theory/L3 Entropy.md",
+                "file": "HKI - năm 3/KTPM/Design Pattern/Throttling Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HKI - năm 3/Information Theory/L3 Entropy.md",
+                "file": "HKI - năm 3/KTPM/Design Pattern/Throttling Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HKI - năm 3/Information Theory/L3 Entropy.md",
+                "file": "HKI - năm 3/KTPM/Design Pattern/Throttling Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HKI - năm 3/Information Theory/L3 Entropy.md"
+                "file": "HKI - năm 3/KTPM/Design Pattern/Throttling Pattern.md"
               }
             }
           },
@@ -157,44 +157,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fb996395a2d40c1",
+  "active": "8ebf9c1be8b34885",
   "lastOpenFiles": [
-    "HKI - năm 3/Pasted image 20231219214626.png",
-    "HKI - năm 3/Pasted image 20231219214518.png",
-    "HKI - năm 3/Pasted image 20231219214428.png",
-    "HKI - năm 3/Pasted image 20231219214353.png",
-    "HKI - năm 3/Pasted image 20231219214346.png",
-    "HKI - năm 3/Pasted image 20231219214044.png",
-    "HKI - năm 3/Pasted image 20231219213153.png",
+    "HKI - năm 3/KTPM/Design Pattern/Pub-Sub.md",
+    "HKI - năm 3/KTPM/Design Pattern/Retry Pattern.md",
+    "HKI - năm 3/KTPM/Design Pattern/Index Table Pattern.md",
+    "HKI - năm 3/KTPM/Design Pattern/Claim-Check pattern.md",
+    "HKI - năm 3/KTPM/Design Pattern/Compensating Transaction Pattern.md",
+    "HKI - năm 3/KTPM/Design Pattern/Bulkhead.md",
+    "HKI - năm 3/KTPM/Design Pattern/Async Request-Reply.md",
+    "HKI - năm 3/KTPM/Design Pattern/Ambassador Pattern.md",
+    "HKI - năm 3/KTPM/Design Pattern/Throttling Pattern.md",
+    "HKI - năm 3/KTPM/Design Pattern/Static Content Hosting.md",
+    "HKI - năm 3/KTPM/Design Pattern/Sidecar Pattern.md",
+    "HKI - năm 3/KTPM/Design Pattern/Schedular Agent Supervisor.md",
+    "HKI - năm 3/KTPM/Design Pattern/Saga pattern.md",
+    "HKI - năm 3/KTPM/Design Pattern/Priority Queue.md",
+    "HKI - năm 3/KTPM/Design Pattern/Message Queue.md",
+    "HKI - năm 3/KTPM/Design Pattern/Geode.md",
+    "HKI - năm 3/KTPM/Design Pattern/Gateway Offloading.md",
+    "HKI - năm 3/KTPM/Design Pattern/Federal Identity.md",
+    "HKI - năm 3/KTPM/Design Pattern/External Configuration Store pattern.md",
+    "HKI - năm 3/KTPM/Design Pattern/Event Sourcing.md",
+    "HKI - năm 3/KTPM/Design Pattern/CQRS Pattern.md",
+    "HKI - năm 3/KTPM/Architecture Design Rule/Thiết kế kiến trúc.md",
+    "HKI - năm 3/KTPM/Architecture Design Rule/Architecture.md",
+    "HKI - năm 3/KTPM/Architecture Design Rule",
+    "HKI - năm 3/KTPM/Design Pattern",
+    "Resources/Pasted image 20231219214626.png",
+    "Resources/Pasted image 20231219213153.png",
+    "HKI - năm 3/Information Theory/L3 Entropy.md",
+    "Resources/Pasted image 20231219214518.png",
+    "Resources/Pasted image 20231219214428.png",
+    "Resources/Pasted image 20231219214353.png",
+    "Resources/Pasted image 20231219214346.png",
+    "Resources/Pasted image 20231219214044.png",
     "Resources/Pasted image 20231108191215.png",
     "Resources/Pasted image 20231108191343.png",
     "Resources/Pasted image 20231026163001.png",
-    "Resources/Pasted image 20231019163348.png",
-    "HKI - năm 3/Information Theory/L3 Entropy.md",
     "HKI - năm 3/Information Theory/L2 Probability and Statistics.md",
-    "HKI - năm 3/KTMT.md",
-    "Daily Note.md",
-    "HKI - năm 3/DisData/Lan truyền.md",
-    "Untitled.md",
-    "HKI - năm 3/KTPM/Priority Queue.md",
-    "HKI - năm 3/KTPM/Index Table Pattern.md",
-    "HKI - năm 3/KTPM/Gateway Offloading.md",
-    "HKI - năm 3/KTPM/Async Request-Reply.md",
-    "HKI - năm 3/KTPM/Federal Identity.md",
-    "HKI - năm 3/KTPM/Compensating Transaction Pattern.md",
-    "HKI - năm 3/KTPM/Bulkhead.md",
-    "HKI - năm 3/KTPM/Architecture.md",
-    "HKI - năm 3/KTPM/Ambassador Pattern.md",
-    "HKI - năm 3/Information Theory/L1 Introduction.md",
-    "HKI - năm 3/KTPM/Thiết kế kiến trúc.md",
-    "HKI - năm 3/DisData/Tại sao phải phân mảnh các quan hệ ( bảng ).md",
-    "HKI - năm 3/DisData/DisData.md",
-    "HKI - năm 3/ComVis/Lines.md",
-    "HKI - năm 3/TESTING/System Tesing.md",
-    "HKI - năm 3/TESTING/L3 Black Box.md",
-    "HKI - năm 3/TESTING/L1.md",
-    "HKI - năm 3/TESTING/Intergration Testing.md",
-    "HKI - năm 3/TESTING/Data WBT.md",
     "HKI - năm 3/MobileDev",
     "HKI - năm 3/Information Theory",
     "Lab Testing",
@@ -203,8 +204,6 @@
     "Untitled.canvas",
     "HKI - năm 3/KTPM",
     "HKI - năm 3/DisData",
-    "HKI - năm 3/ComVis",
-    "HKI - năm 3/TESTING",
-    "HKI - năm 3/TESTING"
+    "HKI - năm 3/ComVis"
   ]
 }
