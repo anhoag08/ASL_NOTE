@@ -1,7 +1,7 @@
 #Design_Pattern
 
 # Link Azure:
-*
+*https://learn.microsoft.com/en-us/azure/architecture/patterns/bulkhead
 
 # Định nghĩa:
 - Là một dạng thiết kế ứng dụng giúp chống chịu sự cố. Trong kiến trúc Bulkhead, các thành phần của một ứng dụng được cách ly thành các nhóm để nếu một phần gặp sự cố, các thành phần khác vẫn tiếp tục hoạt động.

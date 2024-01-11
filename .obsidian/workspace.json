@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8686241288391cc9",
+        "id": "f9a1affd77e3b07c",
         "type": "tabs",
         "children": [
           {
-            "id": "9b2a010973010b4b",
+            "id": "b1a9619ab500cb21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HKI - năm 3/KTPM/Design Pattern/Federal Identity.md",
+                "file": "HKI - năm 3/KTPM/Architecture Design Rule/Thiết kế kiến trúc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HKI - năm 3/KTPM/Design Pattern/Federal Identity.md",
+                "file": "HKI - năm 3/KTPM/Architecture Design Rule/Thiết kế kiến trúc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HKI - năm 3/KTPM/Design Pattern/Federal Identity.md",
+                "file": "HKI - năm 3/KTPM/Architecture Design Rule/Thiết kế kiến trúc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HKI - năm 3/KTPM/Design Pattern/Federal Identity.md"
+                "file": "HKI - năm 3/KTPM/Architecture Design Rule/Thiết kế kiến trúc.md"
               }
             }
           },
@@ -135,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -156,46 +158,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b2a010973010b4b",
+  "active": "b1a9619ab500cb21",
   "lastOpenFiles": [
-    "HKI - năm 3/KTPM/Design Pattern/Schedular Agent Supervisor.md",
-    "HKI - năm 3/KTPM/Design Pattern/Sidecar Pattern.md",
+    "HKI - năm 3/Pasted image 20240111122534.png",
+    "HKI - năm 3/KTPM/Architecture Design Rule/Thuộc tính chất lượng.md",
     "HKI - năm 3/KTPM/Design Pattern/Throttling Pattern.md",
     "HKI - năm 3/KTPM/Design Pattern/Static Content Hosting.md",
-    "HKI - năm 3/Information Theory/L1 Introduction.md",
-    "Resources/README.md",
-    "HKI - năm 3/KTPM/Design Pattern/Saga pattern.md",
+    "HKI - năm 3/KTPM/Design Pattern/Sharding.md",
     "HKI - năm 3/KTPM/Design Pattern/Retry Pattern.md",
     "HKI - năm 3/KTPM/Design Pattern/Rate Limiting pattern.md",
-    "HKI - năm 3/KTPM/Design Pattern/Pub-Sub.md",
-    "HKI - năm 3/KTPM/Design Pattern/Priority Queue.md",
-    "HKI - năm 3/KTPM/Design Pattern/Message Queue.md",
-    "HKI - năm 3/KTPM/Design Pattern/Index Table Pattern.md",
-    "HKI - năm 3/KTPM/Design Pattern/Geode.md",
-    "HKI - năm 3/KTPM/Design Pattern/Federal Identity.md",
-    "HKI - năm 3/KTPM/Design Pattern/Gateway Offloading.md",
+    "HKI - năm 3/KTPM/Design Pattern/Queue-Based Load Leveling pattern.md",
+    "HKI - năm 3/KTPM/Design Pattern/Publisher-Subscriber pattern.md",
+    "HKI - năm 3/KTPM/Design Pattern/Priority Queue pattern.md",
+    "HKI - năm 3/KTPM/Design Pattern/Pipes and Filters pattern.md",
+    "HKI - năm 3/KTPM/Design Pattern/Materialized View pattern.md",
+    "HKI - năm 3/KTPM/Design Pattern/Gatekeeper pattern.md",
+    "HKI - năm 3/KTPM/Design Pattern/Federated Identity.md",
     "HKI - năm 3/KTPM/Design Pattern/External Configuration Store pattern.md",
     "HKI - năm 3/KTPM/Design Pattern/Event Sourcing.md",
     "HKI - năm 3/KTPM/Design Pattern/Edge Workload Config Pattern.md",
     "HKI - năm 3/KTPM/Design Pattern/CQRS Pattern.md",
-    "HKI - năm 3/KTPM/Design Pattern/Competing Consumers Pattern.md",
-    "HKI - năm 3/KTPM/Design Pattern/Compensating Transaction Pattern.md",
-    "HKI - năm 3/KTPM/Design Pattern/Claim-Check pattern.md",
+    "HKI - năm 3/KTPM/Architecture Design Rule/Thiết kế kiến trúc.md",
+    "HKI - năm 3/KTPM/Architecture Design Rule/Architecture.md",
     "HKI - năm 3/KTPM/Design Pattern/Circuit Breaker.md",
+    "Resources/Pasted image 20231219211440.png",
+    "Resources/Pasted image 20240109164755.png",
+    "Resources/Pasted image 20240110231052.png",
+    "HKI - năm 3/KTPM/Design Pattern/Claim-Check pattern.md",
+    "HKI - năm 3/KTPM/Design Pattern/Competing Consumers Pattern.md",
     "HKI - năm 3/KTPM/Design Pattern/Cache Aside Pattern.md",
     "HKI - năm 3/KTPM/Design Pattern/Bulkhead.md",
+    "HKI - năm 3/KTPM/Design Pattern/Anti-corruption pattern.md",
+    "Resources/Pasted image 20240110220407.png",
+    "Resources/Pasted image 20240110211709.png",
+    "Resources/Pasted image 20240109163504.png",
+    "Resources/Pasted image 20240109164740.png",
+    "Resources/Pasted image 20240109164716.png",
+    "Resources/Pasted image 20240109164003.png",
+    "HKI - năm 3/ComVis/Thầy Hà",
     "Resources/Pasted image 20231222162627.png",
-    "Resources/Pasted image 20231222163116.png",
     "HKI - năm 3/KTPM/Architecture Design Rule",
     "HKI - năm 3/KTPM/Design Pattern",
-    "Resources/Pasted image 20231219214626.png",
-    "Resources/Pasted image 20231219213153.png",
-    "Resources/Pasted image 20231219214518.png",
-    "Resources/Pasted image 20231219214428.png",
-    "Resources/Pasted image 20231219214353.png",
-    "Resources/Pasted image 20231219214346.png",
-    "Resources/Pasted image 20231219214044.png",
-    "Resources/Pasted image 20231108191215.png",
     "HKI - năm 3/MobileDev",
     "HKI - năm 3/Information Theory",
     "Lab Testing",
@@ -203,7 +206,6 @@
     "Resources/SzeliskiBook_20100903_draft.pdf",
     "Untitled.canvas",
     "HKI - năm 3/KTPM",
-    "HKI - năm 3/DisData",
-    "HKI - năm 3/ComVis"
+    "HKI - năm 3/DisData"
   ]
 }

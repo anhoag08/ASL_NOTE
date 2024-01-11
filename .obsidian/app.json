@@ -2,5 +2,6 @@
   "attachmentFolderPath": "HKI - năm 3",
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "promptDelete": false
 }

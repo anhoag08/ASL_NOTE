@@ -1,7 +1,7 @@
 #Design_Pattern 
 
 # Link Azure:
-*
+*https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs
 
 # Định nghĩa
 - Viết tắt của Command and Query Responsibility Segregation, một pattern tách rời việc độc và ghi cho một cơ sở dữ liệu. 
