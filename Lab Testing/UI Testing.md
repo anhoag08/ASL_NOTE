@@ -26,3 +26,6 @@ Wiki for UI Testing Tools: https://en.wikipedia.org/wiki/Comparison_of_GUI_testi
 
 Xử lý n-wise testing cho n câu lệnh expr trong 1 test case
 Xử lý cách pick các Test data combo cho Test case.
+
+
+

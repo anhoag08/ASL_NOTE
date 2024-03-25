@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f9a1affd77e3b07c",
+        "id": "31df5db1fb7de1d1",
         "type": "tabs",
         "children": [
           {
-            "id": "b1a9619ab500cb21",
+            "id": "becca5dc6f2bb13b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HKI - năm 3/KTPM/Architecture Design Rule/Thiết kế kiến trúc.md",
+                "file": "HKII - năm 3/NLHDH/Main Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HKI - năm 3/KTPM/Architecture Design Rule/Thiết kế kiến trúc.md",
+                "file": "HKII - năm 3/NLHDH/Main Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HKI - năm 3/KTPM/Architecture Design Rule/Thiết kế kiến trúc.md",
+                "file": "HKII - năm 3/NLHDH/Main Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HKI - năm 3/KTPM/Architecture Design Rule/Thiết kế kiến trúc.md"
+                "file": "HKII - năm 3/NLHDH/Main Memory.md"
               }
             }
           },
@@ -158,54 +158,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1a9619ab500cb21",
+  "active": "becca5dc6f2bb13b",
   "lastOpenFiles": [
-    "HKI - năm 3/Pasted image 20240111122534.png",
+    "HKII - năm 3/NLHDH/OS Structure.md",
+    "Resources/Pasted image 20240111122534.png",
+    "Resources/Pasted image 20240320115000.png",
+    "HKII - năm 3/NLHDH/Main Memory.md",
+    "Resources/Pasted image 20240325110406.png",
+    "Resources/Pasted image 20240325102232.png",
+    "Resources/Pasted image 20240325101715.png",
+    "Resources/Pasted image 20240325093733.png",
+    "Resources/Pasted image 20240325093435.png",
+    "Resources/Pasted image 20240320115423.png",
+    "HKI - năm 3/Information Theory/L3 Entropy.md",
+    "HKI - năm 3/Information Theory/L2 Probability and Statistics.md",
+    "HKI - năm 3/Information Theory/L1 Introduction.md",
+    "HKI - năm 3/DisData/Lan truyền.md",
+    "HKI - năm 3/DisData/DisData.md",
+    "HKII - năm 3/NLHDH/Deadlock.md",
+    "HKII - năm 3/NLHDH/CPU Scheduling.md",
+    "Lab Testing/UI Testing.md",
+    "HKI - năm 3/DisData/Tại sao phải phân mảnh các quan hệ ( bảng ).md",
+    "Resources/Pasted image 20240320115021.png",
+    "HKII - năm 3/OOAD/Họp 17-3.md",
+    "HKI - năm 3/KTPM/Architecture Design Rule/Architecture.md",
     "HKI - năm 3/KTPM/Architecture Design Rule/Thuộc tính chất lượng.md",
+    "HKI - năm 3/KTPM/Architecture Design Rule/Thiết kế kiến trúc.md",
+    "HKII - năm 3/NLMAR/NLYMKT.md",
+    "HKII - năm 3/NLMAR",
+    "Lab Testing/NLP Element Matching.md",
+    "Lab Testing/Lab Note.md",
+    "HKII - năm 3/NLHDH",
+    "Daily Note.md",
+    "HKII - năm 3/OOAD/L1 General.md",
+    "HKII - năm 3/OOAD",
+    "HKII - năm 3",
+    "Lab Testing/WebDriverIO.md",
     "HKI - năm 3/KTPM/Design Pattern/Throttling Pattern.md",
     "HKI - năm 3/KTPM/Design Pattern/Static Content Hosting.md",
     "HKI - năm 3/KTPM/Design Pattern/Sharding.md",
     "HKI - năm 3/KTPM/Design Pattern/Retry Pattern.md",
-    "HKI - năm 3/KTPM/Design Pattern/Rate Limiting pattern.md",
-    "HKI - năm 3/KTPM/Design Pattern/Queue-Based Load Leveling pattern.md",
-    "HKI - năm 3/KTPM/Design Pattern/Publisher-Subscriber pattern.md",
-    "HKI - năm 3/KTPM/Design Pattern/Priority Queue pattern.md",
-    "HKI - năm 3/KTPM/Design Pattern/Pipes and Filters pattern.md",
-    "HKI - năm 3/KTPM/Design Pattern/Materialized View pattern.md",
-    "HKI - năm 3/KTPM/Design Pattern/Gatekeeper pattern.md",
-    "HKI - năm 3/KTPM/Design Pattern/Federated Identity.md",
-    "HKI - năm 3/KTPM/Design Pattern/External Configuration Store pattern.md",
-    "HKI - năm 3/KTPM/Design Pattern/Event Sourcing.md",
-    "HKI - năm 3/KTPM/Design Pattern/Edge Workload Config Pattern.md",
-    "HKI - năm 3/KTPM/Design Pattern/CQRS Pattern.md",
-    "HKI - năm 3/KTPM/Architecture Design Rule/Thiết kế kiến trúc.md",
-    "HKI - năm 3/KTPM/Architecture Design Rule/Architecture.md",
-    "HKI - năm 3/KTPM/Design Pattern/Circuit Breaker.md",
     "Resources/Pasted image 20231219211440.png",
-    "Resources/Pasted image 20240109164755.png",
-    "Resources/Pasted image 20240110231052.png",
-    "HKI - năm 3/KTPM/Design Pattern/Claim-Check pattern.md",
-    "HKI - năm 3/KTPM/Design Pattern/Competing Consumers Pattern.md",
-    "HKI - năm 3/KTPM/Design Pattern/Cache Aside Pattern.md",
-    "HKI - năm 3/KTPM/Design Pattern/Bulkhead.md",
-    "HKI - năm 3/KTPM/Design Pattern/Anti-corruption pattern.md",
-    "Resources/Pasted image 20240110220407.png",
-    "Resources/Pasted image 20240110211709.png",
-    "Resources/Pasted image 20240109163504.png",
-    "Resources/Pasted image 20240109164740.png",
-    "Resources/Pasted image 20240109164716.png",
-    "Resources/Pasted image 20240109164003.png",
     "HKI - năm 3/ComVis/Thầy Hà",
-    "Resources/Pasted image 20231222162627.png",
     "HKI - năm 3/KTPM/Architecture Design Rule",
     "HKI - năm 3/KTPM/Design Pattern",
     "HKI - năm 3/MobileDev",
     "HKI - năm 3/Information Theory",
     "Lab Testing",
-    "Resources",
-    "Resources/SzeliskiBook_20100903_draft.pdf",
-    "Untitled.canvas",
-    "HKI - năm 3/KTPM",
-    "HKI - năm 3/DisData"
+    "Untitled.canvas"
   ]
 }
