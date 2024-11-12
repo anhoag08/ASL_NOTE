@@ -1,4 +1,4 @@
-
+#Design_Architecture
 - Tính sẵn sàng: 
 	- Thể hiện sự có mặt, có thể phục vụ khi cần
 - Khả năng tích hợp: 

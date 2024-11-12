@@ -16,7 +16,7 @@
 	- Kiểm tra địa chỉ logic có nằm trong khoảng giới hạn của chương trình, nếu không báo lỗi, nếu có thì địa chỉ vật lý = base + limit
 	![[Pasted image 20240325093435.png|800]]
 - ## Variable Partition
-	- ![[Pasted image 20240325093733.png|800]]
+	![[Pasted image 20240325093733.png|800]]
 	- CPU lưu địa chỉ các ô nhớ được chiếm và các ô nhớ trống
 	- Khi có tiến trình đến, CPU cung cấp ô nhớ đủ để lưu trữ tiến trình
 	- CPU chạy xong thì trả ô nhớ
@@ -45,6 +45,15 @@
 ![[Pasted image 20240325110406.png|800]]
 
 $PhysAdd = FrameNo * FrameSize + Offset$
+
+![[Pasted image 20240401093202.png|800]]
+
+$EffAccTime=CacheHitRate * (CacheAccTime + RAMAccTime)+CacheMissRate * (RAMAccTime * 2)$ 
+
+***Valid bit***: Là bit chứa frame nằm trong địa chỉ logic của tiến trình
+***Invalid bit***: Là bit chứa frame không nằm trong địa chỉ logic của tiến trình
+
+
 
 
 

@@ -1,3 +1,4 @@
+#InformationTheory
 # Entropy là gì
 - Một phép thử Ek có xác suất xảy ra là pk, thông tin Shannon về biến cố này là:![[Pasted image 20231219213153.png|500]]
 - Nó chỉ ra rằng

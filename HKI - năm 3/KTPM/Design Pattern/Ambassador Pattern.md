@@ -28,3 +28,8 @@
 - Khi cần deploy một ứng dụng có nhiều client connect qua nhiều ngôn ngữ hoặc giao diện network khác nhau
 - giảm load xử lý cho host hoặc tách biệt việc xử lý connectivity cho một bên thứ 3
 - Cần hỗ trợ dịch vụ cloud hoặc các dạng cụm connect mà không thể update ứng dụng host
+
+# Hello
+- Hello
+- ![[Pasted image 20240820222242.png|500]]
+- 

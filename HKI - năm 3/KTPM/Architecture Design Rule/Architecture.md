@@ -7,7 +7,6 @@ Layered Architecture Style
 - Persistence Layer
 - Database Layer
 
-
 Đặc điểm
 - Tách biệt các mối quan tâm
 - Phân chia lớp theo khía cạnh kỹ thuật

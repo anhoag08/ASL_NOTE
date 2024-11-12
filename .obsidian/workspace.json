@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "31df5db1fb7de1d1",
+        "id": "746c4fd4a1b75ef1",
         "type": "tabs",
         "children": [
           {
-            "id": "becca5dc6f2bb13b",
+            "id": "52798f4ce07a8ece",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HKII - năm 3/NLHDH/Main Memory.md",
+                "file": "Algorithm/Array & Hashing.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Array & Hashing"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#algorithm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,15 +93,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HKII - năm 3/NLHDH/Main Memory.md",
+                "file": "HKI - năm 4/Machine Learning/L2 - General Concepts for ML.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for L2 - General Concepts for ML"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HKII - năm 3/NLHDH/Main Memory.md",
-                "linksCollapsed": false,
+                "file": "Algorithm/Array & Hashing.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Array & Hashing"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HKII - năm 3/NLHDH/Main Memory.md"
-              }
+                "file": "Algorithm/Array & Hashing.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Array & Hashing"
             }
           },
           {
@@ -138,15 +154,27 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "95554fe1d946bcbe",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,53 +186,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "becca5dc6f2bb13b",
+  "active": "52798f4ce07a8ece",
   "lastOpenFiles": [
-    "HKII - năm 3/NLHDH/OS Structure.md",
-    "Resources/Pasted image 20240111122534.png",
-    "Resources/Pasted image 20240320115000.png",
-    "HKII - năm 3/NLHDH/Main Memory.md",
-    "Resources/Pasted image 20240325110406.png",
-    "Resources/Pasted image 20240325102232.png",
-    "Resources/Pasted image 20240325101715.png",
-    "Resources/Pasted image 20240325093733.png",
-    "Resources/Pasted image 20240325093435.png",
-    "Resources/Pasted image 20240320115423.png",
-    "HKI - năm 3/Information Theory/L3 Entropy.md",
-    "HKI - năm 3/Information Theory/L2 Probability and Statistics.md",
-    "HKI - năm 3/Information Theory/L1 Introduction.md",
-    "HKI - năm 3/DisData/Lan truyền.md",
-    "HKI - năm 3/DisData/DisData.md",
-    "HKII - năm 3/NLHDH/Deadlock.md",
-    "HKII - năm 3/NLHDH/CPU Scheduling.md",
-    "Lab Testing/UI Testing.md",
-    "HKI - năm 3/DisData/Tại sao phải phân mảnh các quan hệ ( bảng ).md",
-    "Resources/Pasted image 20240320115021.png",
-    "HKII - năm 3/OOAD/Họp 17-3.md",
-    "HKI - năm 3/KTPM/Architecture Design Rule/Architecture.md",
-    "HKI - năm 3/KTPM/Architecture Design Rule/Thuộc tính chất lượng.md",
-    "HKI - năm 3/KTPM/Architecture Design Rule/Thiết kế kiến trúc.md",
+    "Algorithm/Binary Search.md",
+    "Algorithm/Bucket Sort.md",
+    "Algorithm/Array & Hashing.md",
+    "Algorithm/Sliding Window.md",
+    "Algorithm/Stack.md",
+    "Algorithm/Two Pointer.md",
     "HKII - năm 3/NLMAR/NLYMKT.md",
-    "HKII - năm 3/NLMAR",
-    "Lab Testing/NLP Element Matching.md",
-    "Lab Testing/Lab Note.md",
-    "HKII - năm 3/NLHDH",
-    "Daily Note.md",
+    "HKI - năm 4/Machine Learning/L7 - Model Optimization.md",
+    "HKI - năm 3/Information Theory/L3 Entropy.md",
+    "HKI - năm 3/MobileDev/MOBILE DEV.md",
+    "Video Processing Project.md",
+    "Resources/README.md",
+    "HKI - năm 3/KTMT.md",
     "HKII - năm 3/OOAD/L1 General.md",
+    "HKI - năm 3/KTPM/Architecture Design Rule/Thuộc tính chất lượng.md",
+    "Lab Testing/Họp 12-4-2024.md",
+    "TacticAI.md",
+    "Android 14 Script.md",
+    "Daily Note.md",
+    "Fuzzing.md",
+    "Intern Report.md",
+    "Langrange Multiplier.md",
+    "LLM LAB.md",
+    "Marketing Vinamilk.md",
+    "MLE.md",
+    "OS Tool Link.md",
+    "HKI - năm 3/Pasted image 20241022160005.png",
+    "HKI - năm 3/Pasted image 20241020150210.png",
+    "HKI - năm 3/Pasted image 20241020150036.png",
+    "HKI - năm 3/Pasted image 20241020145955.png",
+    "HKI - năm 3/Pasted image 20241020145802.png",
+    "HKI - năm 3/Pasted image 20241020145648.png",
+    "HKI - năm 3/Pasted image 20241020144847.png",
+    "HKI - năm 3/Pasted image 20241020144815.png",
+    "HKI - năm 3/Pasted image 20241020144743.png",
+    "HKI - năm 3/Pasted image 20241020144728.png",
+    "HKI - năm 4/LLM Testing Survey",
+    "Algorithm",
+    "HKI - năm 4/Machine Learning",
+    "HKI - năm 4",
+    "HKII - năm 3/NLHDH/BTL",
+    "HKII - năm 3/NLMAR",
+    "HKII - năm 3/NLHDH",
     "HKII - năm 3/OOAD",
     "HKII - năm 3",
-    "Lab Testing/WebDriverIO.md",
-    "HKI - năm 3/KTPM/Design Pattern/Throttling Pattern.md",
-    "HKI - năm 3/KTPM/Design Pattern/Static Content Hosting.md",
-    "HKI - năm 3/KTPM/Design Pattern/Sharding.md",
-    "HKI - năm 3/KTPM/Design Pattern/Retry Pattern.md",
-    "Resources/Pasted image 20231219211440.png",
     "HKI - năm 3/ComVis/Thầy Hà",
-    "HKI - năm 3/KTPM/Architecture Design Rule",
-    "HKI - năm 3/KTPM/Design Pattern",
-    "HKI - năm 3/MobileDev",
-    "HKI - năm 3/Information Theory",
-    "Lab Testing",
     "Untitled.canvas"
   ]
 }
