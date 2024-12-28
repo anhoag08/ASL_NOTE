@@ -23,3 +23,14 @@ DL + Object Detection Approach for Mobile
 https://arxiv.org/pdf/2301.01191
 
 https://github.com/LLM-Testing/LLM4SoftwareTesting?tab=readme-ov-file
+
+vk
+ez
+cait
+lux
+akl
+kata
+nida
+ryze
+zed
+hwei

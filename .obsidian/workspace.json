@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "746c4fd4a1b75ef1",
+        "id": "1543bd0256747d62",
         "type": "tabs",
         "children": [
           {
-            "id": "52798f4ce07a8ece",
+            "id": "150545c406493afe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Array & Hashing.md",
+                "file": "Lab Testing/UI Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Array & Hashing"
+              "title": "UI Testing"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#algorithm",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dddc8b6cb11237af",
@@ -174,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,44 +188,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52798f4ce07a8ece",
+  "active": "150545c406493afe",
   "lastOpenFiles": [
-    "Algorithm/Binary Search.md",
-    "Algorithm/Bucket Sort.md",
-    "Algorithm/Array & Hashing.md",
-    "Algorithm/Sliding Window.md",
-    "Algorithm/Stack.md",
-    "Algorithm/Two Pointer.md",
-    "HKII - năm 3/NLMAR/NLYMKT.md",
-    "HKI - năm 4/Machine Learning/L7 - Model Optimization.md",
-    "HKI - năm 3/Information Theory/L3 Entropy.md",
-    "HKI - năm 3/MobileDev/MOBILE DEV.md",
-    "Video Processing Project.md",
-    "Resources/README.md",
-    "HKI - năm 3/KTMT.md",
-    "HKII - năm 3/OOAD/L1 General.md",
-    "HKI - năm 3/KTPM/Architecture Design Rule/Thuộc tính chất lượng.md",
+    "Lab Testing/LANGIUM.md",
+    "Lab Testing/Lab Note.md",
     "Lab Testing/Họp 12-4-2024.md",
+    "Lab Testing/DSL.md",
+    "Lab Testing/Cypress.md",
+    "Lab Testing/NLP Element Matching.md",
+    "Lab Testing/Robot Framework.md",
+    "Lab Testing/Selenide.md",
+    "Lab Testing/So sánh 4 framework.md",
+    "Lab Testing/TEST CASE GENERATION.md",
+    "Lab Testing/UI Testing.md",
+    "Lab Testing/WebDriverIO.md",
+    "Note/Useful Links.md",
+    "AWS Cloud.md",
+    "AWS Compute & Networking.md",
+    "Job Opportunities.md",
+    "Monitoring, Optimizing & going Serverless on AWS.md",
+    "Storage & DB on AWS.md",
     "TacticAI.md",
-    "Android 14 Script.md",
-    "Daily Note.md",
-    "Fuzzing.md",
-    "Intern Report.md",
-    "Langrange Multiplier.md",
-    "LLM LAB.md",
-    "Marketing Vinamilk.md",
-    "MLE.md",
-    "OS Tool Link.md",
-    "HKI - năm 3/Pasted image 20241022160005.png",
-    "HKI - năm 3/Pasted image 20241020150210.png",
-    "HKI - năm 3/Pasted image 20241020150036.png",
-    "HKI - năm 3/Pasted image 20241020145955.png",
-    "HKI - năm 3/Pasted image 20241020145802.png",
-    "HKI - năm 3/Pasted image 20241020145648.png",
-    "HKI - năm 3/Pasted image 20241020144847.png",
-    "HKI - năm 3/Pasted image 20241020144815.png",
-    "HKI - năm 3/Pasted image 20241020144743.png",
-    "HKI - năm 3/Pasted image 20241020144728.png",
+    "Video Processing Project.md",
+    "AWS/AWS.md",
+    "Algorithm/4. Binary Search.md",
+    "Algorithm/Bucket Sort.md",
+    "Algorithm/5. Sliding Window.md",
+    "Untitled/Untitled",
+    "Note",
+    "AWS",
+    "HKI - năm 4/Machine Learning/Random Forest.md",
+    "HKI - năm 4/Machine Learning/Machine Learning.md",
+    "Resources/Pasted image 20240401093202.png",
+    "Resources/Pasted image 20240820222242.png",
+    "Resources/Pasted image 20241022160005.png",
+    "Resources/Pasted image 20241020150210.png",
+    "Resources/Pasted image 20241020150036.png",
+    "Resources/Pasted image 20241020145955.png",
+    "Resources/Pasted image 20241020145802.png",
+    "Resources/Pasted image 20241020145648.png",
+    "Resources/Pasted image 20241020144847.png",
+    "Resources/Pasted image 20241020144815.png",
     "HKI - năm 4/LLM Testing Survey",
     "Algorithm",
     "HKI - năm 4/Machine Learning",
@@ -231,9 +236,6 @@
     "HKII - năm 3/NLHDH/BTL",
     "HKII - năm 3/NLMAR",
     "HKII - năm 3/NLHDH",
-    "HKII - năm 3/OOAD",
-    "HKII - năm 3",
-    "HKI - năm 3/ComVis/Thầy Hà",
     "Untitled.canvas"
   ]
 }
