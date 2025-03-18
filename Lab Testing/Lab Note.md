@@ -54,24 +54,29 @@ Reviewer A:
 - Hình 9, 10 cần giải thích ý nghĩa màu sắc trong hình.
 
 Reviewer B:
-- Phân tích thêm điểm mạnh, điểm yếu về tính thực tiễn khi sử dụng UBL
-- Phần thí nghiệm và đánh giá cần thêm thông tin để giải thích kết luận tốt hơn.
-- Thêm phần tool support để giúp người đọc reproduce thí nghiệm.
-- Định nghĩa giới hạn của UBL trong thí nghiệm.
-- Kỹ thuật hỗ trợ cho tạo UBL và sinh test cần miêu tả chi tiết => Vấn đề trong việc hiểu quá trình kiểm tra tính đúng đắn của UBL (syntax).
-- Thêm thí nghiệm và kết quả để tăng tính thuyết phục cho kết luận
-- Format:
-	- Phần intro thiếu giới thiệu cho section 5.
-	- Terminology dùng trong bài còn inconsistent
+UBL:
 - Xử lý lỗi trong UBL
 	- syntax
 	- sai hành động
 	- sai phép toán logic
 	- Constraint sử dụng trong tính toán số test case.
+- Phân tích thêm điểm mạnh, điểm yếu về tính thực tiễn khi sử dụng UBL
+- Định nghĩa giới hạn của UBL trong thí nghiệm.
+- Kỹ thuật hỗ trợ cho tạo UBL và sinh test cần miêu tả chi tiết => Vấn đề trong việc hiểu quá trình kiểm tra tính đúng đắn của UBL (syntax).
+
+Thí nghiệm
+- Phần thí nghiệm và đánh giá cần thêm thông tin để giải thích kết luận tốt hơn.
+- Thêm thí nghiệm và kết quả để tăng tính thuyết phục cho kết luận
 - Cụ thể hơn trong so sánh giữa Katalon và tool:
 	- Khả năng ứng dụng thực tế (các hành động support, ...)
 	- Formal definition cho UBL scope
 	- Kết hơp so sánh thời gian tạo ra bộ script UBL cho tool với các phương pháp tạo test khác nhau của Katalon (Record and play, ...)
+
+
+- Thêm phần tool support để giúp người đọc reproduce thí nghiệm.
+- Format:
+	- Phần intro thiếu giới thiệu cho section 5.
+	- Terminology dùng trong bài còn inconsistent
 
 Mục tiêu chính:
 - Viết formal algorithm cho quá trình sinh test.

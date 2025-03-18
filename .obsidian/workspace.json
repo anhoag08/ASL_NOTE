@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1543bd0256747d62",
+        "id": "fb73a5c5ee1d7ab0",
         "type": "tabs",
         "children": [
           {
-            "id": "150545c406493afe",
+            "id": "3e6acf29ad466854",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab Testing/UI Testing.md",
+                "file": "Script Thuyết Trình NCKH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UI Testing"
+              "title": "Script Thuyết Trình NCKH"
+            }
+          },
+          {
+            "id": "9aeaf4e8f59b20d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/Constraining Expected Detection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Constraining Expected Detection"
             }
           }
         ]
@@ -40,7 +54,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -188,37 +203,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "150545c406493afe",
+  "active": "3e6acf29ad466854",
   "lastOpenFiles": [
-    "Lab Testing/LANGIUM.md",
+    "Paper Revision.md",
+    "Script Thuyết Trình NCKH.md",
+    "Storage & DB on AWS.md",
+    "TacticAI.md",
+    "Video Processing Project.md",
+    "AWS Compute & Networking.md",
+    "AWS Cloud.md",
+    "Job Opportunities.md",
+    "Note/Bucket List.md",
+    "Note/Useful Links.md",
+    "Note/Constraining Expected Detection.md",
+    "Note/NBA Play Query.md",
+    "Lab Testing/CNN/Object Detection CNN From Scratch.md",
+    "HKI - năm 3/KTPM/Design Pattern/Ambassador Pattern.md",
+    "HKI - năm 3/KTPM/Design Pattern/Anti-corruption pattern.md",
+    "HKI - năm 3/Pasted image 20250208141153.png",
+    "HKI - năm 3/Pasted image 20250208141038.png",
+    "HKI - năm 3/Pasted image 20250208141007.png",
+    "Lab Testing/CNN",
+    "HKII - năm 3/NLHDH/CPU Scheduling.md",
     "Lab Testing/Lab Note.md",
+    "Lab Testing/UI Testing.md",
+    "Lab Testing/WebDriverIO.md",
+    "Lab Testing/LANGIUM.md",
     "Lab Testing/Họp 12-4-2024.md",
     "Lab Testing/DSL.md",
     "Lab Testing/Cypress.md",
     "Lab Testing/NLP Element Matching.md",
     "Lab Testing/Robot Framework.md",
     "Lab Testing/Selenide.md",
-    "Lab Testing/So sánh 4 framework.md",
-    "Lab Testing/TEST CASE GENERATION.md",
-    "Lab Testing/UI Testing.md",
-    "Lab Testing/WebDriverIO.md",
-    "Note/Useful Links.md",
-    "AWS Cloud.md",
-    "AWS Compute & Networking.md",
-    "Job Opportunities.md",
-    "Monitoring, Optimizing & going Serverless on AWS.md",
-    "Storage & DB on AWS.md",
-    "TacticAI.md",
-    "Video Processing Project.md",
-    "AWS/AWS.md",
-    "Algorithm/4. Binary Search.md",
-    "Algorithm/Bucket Sort.md",
-    "Algorithm/5. Sliding Window.md",
     "Untitled/Untitled",
     "Note",
     "AWS",
-    "HKI - năm 4/Machine Learning/Random Forest.md",
-    "HKI - năm 4/Machine Learning/Machine Learning.md",
     "Resources/Pasted image 20240401093202.png",
     "Resources/Pasted image 20240820222242.png",
     "Resources/Pasted image 20241022160005.png",
@@ -226,16 +245,12 @@
     "Resources/Pasted image 20241020150036.png",
     "Resources/Pasted image 20241020145955.png",
     "Resources/Pasted image 20241020145802.png",
-    "Resources/Pasted image 20241020145648.png",
-    "Resources/Pasted image 20241020144847.png",
-    "Resources/Pasted image 20241020144815.png",
     "HKI - năm 4/LLM Testing Survey",
     "Algorithm",
     "HKI - năm 4/Machine Learning",
     "HKI - năm 4",
     "HKII - năm 3/NLHDH/BTL",
     "HKII - năm 3/NLMAR",
-    "HKII - năm 3/NLHDH",
     "Untitled.canvas"
   ]
 }
